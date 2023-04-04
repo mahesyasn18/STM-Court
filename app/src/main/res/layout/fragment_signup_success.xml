@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.auth.register.SignupSuccessFragment">
+
+<ImageView
+    android:id="@+id/imageView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="80dp"
+    android:layout_marginTop="100dp"
+    android:layout_marginEnd="80dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.497"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.0"
+    app:srcCompat="@drawable/ic_signup_success" />
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="80dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginEnd="80dp"
+    android:fontFamily="@font/poppins"
+    android:text="Yeay! Completed"
+    android:textColor="#020202"
+    android:textSize="20sp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/imageView3"
+    app:layout_constraintVertical_bias="0.0" />
+
+<TextView
+    android:id="@+id/textView5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="80dp"
+    android:layout_marginTop="6dp"
+    android:layout_marginEnd="80dp"
+    android:fontFamily="@font/poppins_light"
+    android:text="Now you are able to order\n
+some foods as a self-reward"
+    android:textAlignment="center"
+    android:textColor="#8D92A3"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+<Button
+    android:id="@+id/btn_continue"
+    style="@style/BTNprimary_14sp_A5FDB9"
+    android:layout_width="200dp"
+    android:layout_height="45dp"
+    android:layout_marginStart="80dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginEnd="80dp"
+    android:text="Find Foods"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.497"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/textView5"
+    app:layout_constraintVertical_bias="0.0"
+    />
+</androidx.constraintlayout.widget.ConstraintLayout>

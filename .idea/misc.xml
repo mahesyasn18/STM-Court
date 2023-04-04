@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/activity_auth_nav.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_home_popular.xml" value="0.15" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_order.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_payment.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_payment_success.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_signin.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_signup_data.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/fragment_signup_success.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/item_home_horizontal.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/item_home_vertical.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/STMCourt/app/src/main/res/layout/layout_toolbar.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable-v24/shape_rectangle_outline_8_020202.xml" value="0.10185185185185185" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/bg_transparent.xml" value="0.21614583333333334" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_arrow_back_000.xml" value="0.21614583333333334" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_home_normal.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_home_selected.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_order_normal.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_order_selected.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_profile_normal.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/ic_profile_selected.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_20_fff.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_8_.xml" value="0.21614583333333334" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_8_466492.xml" value="0.21614583333333334" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_8_8D92A3.xml" value="0.21614583333333334" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_8_ffc700.xml" value="0.10185185185185185" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_8_fff.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/shape_rectangle_outline_8_020202.xml" value="0.10185185185185185" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/drawable/splash_background.xml" value="0.1361111111111111" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_auth_nav.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_auth_navigator.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_signup_success.xml" value="0.25" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/dialog_loader.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_account.xml" value="0.12" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_detail.xml" value="0.27800829875518673" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_home_new_taste.xml" value="0.16" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_home_popular.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_home_recommended.xml" value="0.2" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_order.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_payment.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_payment_success.xml" value="0.14" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_sign_up.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_signin.xml" value="0.2" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_signup_data.xml" value="0.25" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/fragment_signup_success.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/item_home_horizontal.xml" value="0.1" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/item_home_vertical.xml" value="0.16" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/item_menu_profile.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/layout/layout_toolbar.xml" value="0.18" />
+        <entry key="..\:/Kuy kita nugad sekolahhhhhhhhhh/kotlin bwa/STMCourt/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

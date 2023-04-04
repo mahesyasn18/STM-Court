@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.auth.register.SignupFragment"
+    android:paddingTop="44dp"
+    android:orientation="vertical"
+    android:background="@color/authcolorsecond">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/ivPhotoProfile"
+                android:layout_width="110dp"
+                android:layout_height="115dp"
+                android:src="@drawable/pic"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="17dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:fontFamily="@font/poppins"
+                style="@style/TV_16sp_020202"
+                android:text="Full Name"
+                android:layout_marginBottom="11dp"/>
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginTop="6dp"
+                android:padding="10dp"
+                android:background="@drawable/shape_rectangle_outline_8_020202"
+                android:layout_marginBottom="28dp"
+                android:hint="Enter your Full Name Here"
+                />
+
+
+            <TextView
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginBottom="11dp"
+                style="@style/TV_16sp_020202"
+                android:fontFamily="@font/poppins"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Class" />
+
+            <EditText
+                android:id="@+id/etKelas"
+                android:inputType="text"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginTop="6dp"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_rectangle_outline_8_020202"
+                android:hint="Type your Class Here"
+                android:layout_marginBottom="28dp"
+                />
+
+
+            <TextView
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginBottom="11dp"
+                style="@style/TV_16sp_020202"
+                android:fontFamily="@font/poppins"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Phone Number" />
+
+            <EditText
+                android:id="@+id/etPhoneNumber"
+                android:inputType="text"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginTop="6dp"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_rectangle_outline_8_020202"
+                android:hint="Type your Phone Number Here"
+                android:layout_marginBottom="28dp"
+                />
+
+
+            <Button
+                android:id="@+id/btn_continue"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/BTNprimary_14sp_A5FDB9"
+                android:text="Continue"
+                android:layout_marginBottom="12dp"
+                android:textAllCaps="false"
+                />
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

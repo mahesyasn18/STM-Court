@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.order.OrderFragment"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="200dp"
+        android:layout_height="221dp"
+        android:src="@drawable/ic_empty_order"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_marginTop="31dp"
+        android:id="@+id/textView6"
+        style="@style/TV_20sp_020202"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ouch! Hungry"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_marginTop="6dp"
+        android:id="@+id/textView7"
+        style="@style/TV_13sp_8D92A3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seems like you have not\n
+ordered any food yet"
+        android:textAlignment="center"/>
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        style="@style/BTNprimary_14sp_A5FDB9"
+        android:text="Find Foods"
+        android:textAllCaps="false"
+        />
+
+</LinearLayout>

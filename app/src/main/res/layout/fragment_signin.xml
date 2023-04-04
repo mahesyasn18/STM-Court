@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.auth.login.SigninFragment"
+    android:orientation="vertical"
+    android:background="@color/authcolorsecond">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+
+    <TextView
+        android:layout_marginTop="44dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins"
+        style="@style/TV_16sp_020202"
+        android:text="Email Address"
+        android:layout_marginBottom="11dp"/>
+
+    <EditText
+
+        android:inputType="textEmailAddress"
+        android:id="@+id/etEmail"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:background="@drawable/shape_rectangle_outline_8_020202"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Type your Email Here"
+        android:layout_marginBottom="28dp"
+        />
+
+    <TextView
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="11dp"
+        style="@style/TV_16sp_020202"
+        android:fontFamily="@font/poppins"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Password" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:inputType="textPassword"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_rectangle_outline_8_020202"
+        android:hint="Type your Password Here"
+        android:layout_marginBottom="28dp"
+        />
+
+    <Button
+        android:id="@+id/btn_signin"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/BTNprimary_14sp_A5FDB9"
+        android:text="Sign Up Now"
+        android:layout_marginBottom="12dp"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/btn_signup"
+        style="@style/BTNsecond_14sp_A5FDB9"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create New Account"
+        android:textAllCaps="false"
+
+        />
+
+
+</LinearLayout>
